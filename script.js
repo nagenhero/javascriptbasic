@@ -96,7 +96,7 @@ const convert = (a)=>
 }
 console.log(convertf(100));
 console.log(convert(100));
-console.log(convert(100));
+
 
 
 
